@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\bin\Debug\netcoreapp3.1\SIngleInheritancePro.exe
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\bin\Debug\netcoreapp3.1\SIngleInheritancePro.deps.json
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\bin\Debug\netcoreapp3.1\SIngleInheritancePro.runtimeconfig.json
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\bin\Debug\netcoreapp3.1\SIngleInheritancePro.runtimeconfig.dev.json
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\bin\Debug\netcoreapp3.1\SIngleInheritancePro.dll
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\bin\Debug\netcoreapp3.1\SIngleInheritancePro.pdb
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\obj\Debug\netcoreapp3.1\SIngleInheritancePro.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\obj\Debug\netcoreapp3.1\SIngleInheritancePro.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\obj\Debug\netcoreapp3.1\SIngleInheritancePro.AssemblyInfo.cs
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\obj\Debug\netcoreapp3.1\SIngleInheritancePro.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\obj\Debug\netcoreapp3.1\SIngleInheritancePro.dll
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\obj\Debug\netcoreapp3.1\SIngleInheritancePro.pdb
+C:\Users\User\source\repos\SIngleInheritancePro\SIngleInheritancePro\obj\Debug\netcoreapp3.1\SIngleInheritancePro.genruntimeconfig.cache

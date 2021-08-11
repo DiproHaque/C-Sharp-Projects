@@ -1,0 +1,32 @@
+E:\C#\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+E:\C#\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+E:\C#\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.Admin.resources
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.Student.resources
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.Teacher.resources
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.Home.resources
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.ShowStudentInfo.resources
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.ShowTeacherInfo.resources
+E:\C#\StudentManagementSystem\obj\Debug\StudentManagementSystem.Login.resources
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojAssemblyReference.cache
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Admin.resources
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Login.resources
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Home.resources
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.ShowStudentInfo.resources
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.ShowTeacherInfo.resources
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Student.resources
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Teacher.resources
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.cache
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+C:\Users\The Pro\Downloads\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
